@@ -61,3 +61,5 @@ def init(document):
     if len(sys.argv) > 1:  fromdir = sys.argv[1]
     if len(sys.argv) == 3: todir = sys.argv[2]
     epub2mobi(fromdir, todir, ignore_if=['ninios'])
+
+#Developed by Jocimar Lopes (https://instagram.com/@jocimarlopes)

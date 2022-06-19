@@ -46,3 +46,5 @@ pb = ttk.Progressbar(
     length=280
 )
 pb.pack(pady=15)
+
+#Developed by Jocimar Lopes (https://instagram.com/@jocimarlopes)
